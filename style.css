@@ -67,20 +67,20 @@ footer {
   font-size: 0.9rem;
 }
 
-#skills {
+skills {
   margin-top: 40px;
 }
 
-#skills h2 {
+skills h2 {
   color: #00ffcc;
 }
 
-#skills ul {
+skills ul {
   list-style: none;
   padding: 0;
 }
 
-#skills li {
+skills li {
   margin: 5px 0;
   color: #ccc;
 }
